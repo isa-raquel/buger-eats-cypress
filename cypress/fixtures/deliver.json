@@ -1,0 +1,55 @@
+{
+    "signup": {
+        "name": "Isa Raquel",
+            "cpf": "12345678920",
+            "email": "teste@gmail.com",
+            "whatsapp": "88963521410",
+            "address": {
+                "postal_code": 63700155,
+                "street": "Rua Clóvis Beviláqua",
+                "number": "1477",
+                "details": "apto 01",
+                "district": "São Vicente",
+                "city_state": "Crateús/CE"
+
+            },
+            "deliver_method": "Moto",
+            "cnh": "cnh-digital.jpg.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Raquel",
+            "cpf": "1x456789gg0",
+            "email": "raquel@gmail.com",
+            "whatsapp": "88963566410",
+            "address": {
+                "postal_code": 63700155,
+                "street": "Rua Clóvis Beviláqua",
+                "number": "1477",
+                "details": "apto 01",
+                "district": "São Vicente",
+                "city_state": "Crateús/CE"
+
+            },
+            "deliver_method": "Moto",
+            "cnh": "cnh-digital.jpg.jpg"
+    },
+
+    "email_inv": {
+        "name": "Raquel",
+            "cpf": "18456789850",
+            "email": "raquelgmail.com",
+            "whatsapp": "88963566410",
+            "address": {
+                "postal_code": 63700155,
+                "street": "Rua Clóvis Beviláqua",
+                "number": "1477",
+                "details": "apto 01",
+                "district": "São Vicente",
+                "city_state": "Crateús/CE"
+
+            },
+            "deliver_method": "Moto",
+            "cnh": "cnh-digital.jpg.jpg"
+    }
+}
